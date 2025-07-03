@@ -1,31 +1,5 @@
-<p><b>I am an added new component named "DIRECTIVE"!</b></p>
-<!-- If isadmin is true will print "Logged in user is admin"
-else will print "Logged in user is not admin" -->
+<p><b>I am an added new component named "DEMO"! </b></p>
 
-<div *ngIf="isAdmin">
-    Logged in user is Admin
-</div>
-
-<div *ngIf="!isAdmin">
-    Logged in user is not Admin
-</div>
-
-<!-- Using new if/else -->
- @if (isAdmin) {
-    Logged in user is admin
- }
- @else {
-    Logged in user is not admin
- }
-
-<!-- use of *ngFor -->
- <ul>
-    <li *ngFor="let name of names">{{name}}</li>
- </ul>
-
-<!--<ul>
- @for (name of names; track $index) {
-    <li *ngFor="let name of names">{{name}}</li>
- }
-</ul> -->
-
+<h1>2- Way Binding</h1>
+Name : <input type= "text" [(ngModel)]="name">
+<h3>Hi {{name}}</h3>
