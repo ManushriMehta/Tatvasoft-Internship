@@ -1,15 +1,13 @@
-import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
+import { FormsModule } from '@angular/forms'; // ✅ Correct import
 
 @Component({
-  selector: 'app-directives',
+  selector: 'app-demo',
   standalone: true,
-  imports: [CommonModule],
-  templateUrl: './directives.component.html',
-  styleUrl: './directives.component.css'
+  imports: [FormsModule], // ✅ Correct name
+  templateUrl: './demo.component.html',
+  styleUrls: ['./demo.component.css']
 })
-export class DirectivesComponent {
-  isAdmin = 'true'; // set flase then "Logged in user is not admin"
-  names= ['shri', 'ram','chandra'];
+export class DemoComponent {
+  name = '';
 }
-
