@@ -75,4 +75,10 @@ SELECT FirstName, COUNT(*) AS total FROM Student GROUP BY FirstName;
 --group by having
 SELECT EXTRACT(YEAR FROM DateOfBirth) AS BirthYear, COUNT(*) AS Total FROM Student2 GROUP BY BirthYear HAVING COUNT(*) > 2;
 
+--subqueries with IN
+SELECT * FROM   Student WHERE  email IN (SELECT email FROM Student2);
+--no matching email hence 0 row is shown
 
+--subqueries with EXIST
+SELECT * FROM student AS s WHERE NOT EXISTS (SELECT 1 FROM student2 AS s2 WHERE s2.email = s.email);
+--student whose do not exist in student 2 table 
