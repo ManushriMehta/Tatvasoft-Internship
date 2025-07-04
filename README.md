@@ -38,10 +38,10 @@ The internship was divided into daily tasks and modules:
 ## 🗂️ Repository Structure
 
 ```
-/Tatvasot-Internship
+/Tatvasoft-Internship
 │
 ├── Day1_/                   # PostgreSQL Basics
-├── day_2/src/app            # Angular App Setup
+├── Day2_/Day_2_demo_project # Angular App Setup
 ├── day_3/                   # .NET API + EF Core + Login
 ├── day_4/                   # Auth + Role Management
 ├── day_5/                   # User Module CRUD
