@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.entities\\viewmodels\\login\\userloginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\viewmodels\\login\\userloginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.entities\\viewmodels\\login\\userloginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\viewmodels\\login\\userloginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.entities\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0E9A45-85B9-4C7D-AC8A-9ABE8A1D2FA6}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50267064-0C3E-4A19-8469-9D92B92FE165}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50267064-0C3E-4A19-8469-9D92B92FE165}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB7E6D6-7068-4F9C-A9FB-15FB94423393}|Mission.Services\\Mission.Services.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.services\\mission.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCB7E6D6-7068-4F9C-A9FB-15FB94423393}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\mission.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|c:\\users\\manus\\onedrive\\desktop\\day5_final_project\\backened\\mission\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA8CD4B-3DC9-4176-8FCC-EAA927C05B2B}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeToolTip": "Mission.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T08:00:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:59:27.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:59:14.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Repositories\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Repositories\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:58:32.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mission.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeDocumentMoniker": "Mission.Services\\Mission.Services.csproj",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Services\\Mission.Services.csproj",
+              "RelativeToolTip": "Mission.Services\\Mission.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T07:58:26.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Entities\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\MissionDbContext.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Entities\\MissionDbContext.cs",
+              "RelativeToolTip": "Mission.Entities\\MissionDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:58:09.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\Program.cs",
+              "RelativeToolTip": "Mission.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:55:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:54:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:51:59.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Mission.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\manus\\OneDrive\\Desktop\\DAY5_FINAL_PROJECT\\backened\\Mission\\Mission.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Mission.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T07:51:36.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
