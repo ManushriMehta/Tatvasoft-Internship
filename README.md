@@ -41,15 +41,15 @@ The internship was divided into daily tasks and modules:
 /Tatvasoft-Internship
 │
 ├── Day1_/                   # PostgreSQL Basics
-├── Day2_/Day_2_demo_project # Angular App Setup
-├── day_3/                   # .NET API + EF Core + Login
-├── day_4/                   # Auth + Role Management
-├── day_5/                   # User Module CRUD
-├── day_6/                   # Mission & Theme CRUD
-├── day_7/                   # Skill CRUD + Mission Listing
-├── day_8/                   # Mission Application CRUD
-├── day_9/                   # Profile Page + Deployment Prep
-├── day_10/                  # AWS Deployment
+├── Day2_/                   # Angular App Setup
+├── Day3_/                   # .NET API + EF Core + Login
+├── Day4_/                   # Auth + Role Management
+├── Day5_/                   # User Module CRUD
+├── Day6_/                   # Mission & Theme CRUD
+├── Day7_/                   # Skill CRUD + Mission Listing
+├── Day8_/                   # Mission Application CRUD
+├── Day9_/                   # Profile Page + Deployment Prep
+├── Day10_/                  # AWS Deployment
 └── README.md
 
 ```
